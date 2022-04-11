@@ -1,0 +1,24 @@
+{
+  "types": [
+    {
+      "id": 0,
+      "label": "Type-1"
+    },
+    {
+      "id": 1,
+      "label": "Type-2"
+    },
+    {
+      "id": 2,
+      "label": "Type-3"
+    },
+    {
+      "id": 3,
+      "label": "Type-4"
+    },
+    {
+      "id": 4,
+      "label": "Type-5"
+    }
+  ]
+}

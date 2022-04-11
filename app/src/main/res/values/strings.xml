@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Raw Data Sample</string>
+    <string name="type_options_hint">Type Option</string>
+</resources>
